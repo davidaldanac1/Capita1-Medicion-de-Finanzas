@@ -25,6 +25,7 @@ dist-ssr
 
 # Variables de entorno y credenciales
 .env
+vite.config.js
 
 # Carpetas de producción / compilación (opcional pero recomendado)
 dist/
