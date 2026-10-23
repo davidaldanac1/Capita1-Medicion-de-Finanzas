@@ -11,7 +11,8 @@ __pycache__/
 *.pyo
 *.pyd
 
-requierements.txt
+requirements.txt
+Dockerfile
 
 #Frontend
 # Logs
