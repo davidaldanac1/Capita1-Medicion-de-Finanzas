@@ -1,0 +1,13 @@
+# Entorno virtual de Python
+venv/
+
+# Variables de entorno y credenciales
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+requierements.txt
